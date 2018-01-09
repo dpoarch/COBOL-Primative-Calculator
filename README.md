@@ -1,1 +1,1 @@
-# COBOL-Primative-Calculator
+An example program that implements a primative calculator. The calculator only does additions and multiplications.
